@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+/*this section styles the header of the page including the navigation*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -39,10 +40,12 @@ a {
     text-decoration: none;
 }
 
+/*this section styles the main portion of the webpage including the aside and the footer*/
 main {
     background-color: #d9dcd6;
 }
 
+/*styles the main picture of the website directly under the header*/
 .hero {
     height: 800px;
     width: 100%;
@@ -55,6 +58,7 @@ p {
     font-size: 16px;
 }
 
+/*this section styles the 3 main blue boxes of the website*/
 .content {
     width: 75%;
     display: inline-block;
@@ -89,6 +93,7 @@ p {
     font-size: 36px;
 }
 
+/*this section styles the aside or the light blue box to the right of the webpage*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -116,6 +121,7 @@ p {
     max-width: 150px;
 }
 
+/*this section styles the footer of the webpage*/
 footer {
     padding: 30px;
     clear: both;
@@ -123,6 +129,6 @@ footer {
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
