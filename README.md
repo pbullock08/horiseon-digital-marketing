@@ -20,4 +20,6 @@ N/A
 
 Please refer to the license in the repo.
 
+## Deployed Application w/ Screenshot
+
 ![image](./assets/images/Horiseon%20Webpage%20Screenshot.png)
