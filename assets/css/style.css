@@ -4,7 +4,11 @@
     margin: 0;
 }
 
-/*this section styles the header of the page including the navigation*/
+body {
+    background-color: #d9dcd6;
+}
+
+/*this section styles the header of the page, including the navigation, and updates the background color*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -38,11 +42,6 @@ ul li {
 a {
     color: #ffffff;
     text-decoration: none;
-}
-
-/*this section styles the main portion of the webpage including the aside and the footer*/
-main {
-    background-color: #d9dcd6;
 }
 
 /*styles the main picture of the website directly under the header*/
