@@ -34,7 +34,7 @@ nav {
     list-style-type: none;
 }
 
-li {
+ul li {
     display: inline-block;
     margin-left: 25px;
 }
