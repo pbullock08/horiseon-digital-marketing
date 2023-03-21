@@ -2,7 +2,7 @@
 
 ## Description
 
-This webpage is a tool to learn the basic principles of digital marketing including search engine optimizaiton, online reputation management, social media marketing, lead generation, brand awareness, and cost management.
+This webpage is a tool to learn the basic principles of digital marketing including search engine optimizaiton, online reputation management, social media marketing, lead generation, brand awareness, and cost management. The HTML and CSS codes have been refactored to allow for clarity in structure and consolidation of properties, where necessary. 
 
 ## Installation
 
