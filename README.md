@@ -23,4 +23,4 @@ Please refer to the license in the repo.
 ## Deployed Application w/ Screenshot
 
 [Live Webpage](https://pbullock08.github.io/horiseon-digital-marketing/)
-![image](./assets/images/Horiseon%20Webpage%20Screenshot.png)
+![image](./assets/images/deployed-app.png)
